@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Canvas-demo/static/css/main.7f814209.css",
+    "main.js": "/Canvas-demo/static/js/main.a49143a4.js",
+    "static/media/img2.jpg": "/Canvas-demo/static/media/img2.c2449b8414d939f561a6.jpg",
+    "static/media/img1.jpg": "/Canvas-demo/static/media/img1.10f5eea875657f544fd5.jpg",
+    "index.html": "/Canvas-demo/index.html",
+    "main.7f814209.css.map": "/Canvas-demo/static/css/main.7f814209.css.map",
+    "main.a49143a4.js.map": "/Canvas-demo/static/js/main.a49143a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f814209.css",
+    "static/js/main.a49143a4.js"
+  ]
+}
