@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Canvas-demo/static/css/main.7f814209.css",
-    "main.js": "/Canvas-demo/static/js/main.a49143a4.js",
+    "main.css": "/Canvas-demo/static/css/main.307ba88b.css",
+    "main.js": "/Canvas-demo/static/js/main.fe77929d.js",
     "static/media/img2.jpg": "/Canvas-demo/static/media/img2.c2449b8414d939f561a6.jpg",
     "static/media/img1.jpg": "/Canvas-demo/static/media/img1.10f5eea875657f544fd5.jpg",
+    "static/media/icon1.svg": "/Canvas-demo/static/media/icon1.d1aa6aa238856766ebfcfcdc9276f192.svg",
     "index.html": "/Canvas-demo/index.html",
-    "main.7f814209.css.map": "/Canvas-demo/static/css/main.7f814209.css.map",
-    "main.a49143a4.js.map": "/Canvas-demo/static/js/main.a49143a4.js.map"
+    "static/media/icon2.svg": "/Canvas-demo/static/media/icon2.8c4a2665f59116e478e99a49ac5d314f.svg",
+    "main.307ba88b.css.map": "/Canvas-demo/static/css/main.307ba88b.css.map",
+    "main.fe77929d.js.map": "/Canvas-demo/static/js/main.fe77929d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f814209.css",
-    "static/js/main.a49143a4.js"
+    "static/css/main.307ba88b.css",
+    "static/js/main.fe77929d.js"
   ]
 }
