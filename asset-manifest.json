@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Canvas-demo/static/css/main.2106f98a.css",
-    "main.js": "/Canvas-demo/static/js/main.476e6062.js",
+    "main.js": "/Canvas-demo/static/js/main.680690c3.js",
     "static/media/img-2.jpg": "/Canvas-demo/static/media/img-2.7d6c93fe2d6e1e198146.jpg",
     "static/media/img-1.jpg": "/Canvas-demo/static/media/img-1.a31aa6f4375f798b8080.jpg",
     "static/media/user2.png": "/Canvas-demo/static/media/user2.99bf1b65e741fd526c0b.png",
@@ -9,10 +9,10 @@
     "index.html": "/Canvas-demo/index.html",
     "static/media/icon2.svg": "/Canvas-demo/static/media/icon2.8c4a2665f59116e478e99a49ac5d314f.svg",
     "main.2106f98a.css.map": "/Canvas-demo/static/css/main.2106f98a.css.map",
-    "main.476e6062.js.map": "/Canvas-demo/static/js/main.476e6062.js.map"
+    "main.680690c3.js.map": "/Canvas-demo/static/js/main.680690c3.js.map"
   },
   "entrypoints": [
     "static/css/main.2106f98a.css",
-    "static/js/main.476e6062.js"
+    "static/js/main.680690c3.js"
   ]
 }
