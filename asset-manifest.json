@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Canvas-demo/static/css/main.307ba88b.css",
-    "main.js": "/Canvas-demo/static/js/main.fe77929d.js",
-    "static/media/img2.jpg": "/Canvas-demo/static/media/img2.c2449b8414d939f561a6.jpg",
-    "static/media/img1.jpg": "/Canvas-demo/static/media/img1.10f5eea875657f544fd5.jpg",
+    "main.css": "/Canvas-demo/static/css/main.2106f98a.css",
+    "main.js": "/Canvas-demo/static/js/main.476e6062.js",
+    "static/media/img-2.jpg": "/Canvas-demo/static/media/img-2.7d6c93fe2d6e1e198146.jpg",
+    "static/media/img-1.jpg": "/Canvas-demo/static/media/img-1.a31aa6f4375f798b8080.jpg",
+    "static/media/user2.png": "/Canvas-demo/static/media/user2.99bf1b65e741fd526c0b.png",
     "static/media/icon1.svg": "/Canvas-demo/static/media/icon1.d1aa6aa238856766ebfcfcdc9276f192.svg",
     "index.html": "/Canvas-demo/index.html",
     "static/media/icon2.svg": "/Canvas-demo/static/media/icon2.8c4a2665f59116e478e99a49ac5d314f.svg",
-    "main.307ba88b.css.map": "/Canvas-demo/static/css/main.307ba88b.css.map",
-    "main.fe77929d.js.map": "/Canvas-demo/static/js/main.fe77929d.js.map"
+    "main.2106f98a.css.map": "/Canvas-demo/static/css/main.2106f98a.css.map",
+    "main.476e6062.js.map": "/Canvas-demo/static/js/main.476e6062.js.map"
   },
   "entrypoints": [
-    "static/css/main.307ba88b.css",
-    "static/js/main.fe77929d.js"
+    "static/css/main.2106f98a.css",
+    "static/js/main.476e6062.js"
   ]
 }
