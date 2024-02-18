@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Canvas-demo/static/css/main.43e32d93.css",
-    "main.js": "/Canvas-demo/static/js/main.85454fd7.js",
+    "main.css": "/Canvas-demo/static/css/main.04a1ffdb.css",
+    "main.js": "/Canvas-demo/static/js/main.c4da103d.js",
     "static/media/T77_logo.png": "/Canvas-demo/static/media/T77_logo.ae40adf1994187df0f39.png",
     "static/media/img-2.jpg": "/Canvas-demo/static/media/img-2.7d6c93fe2d6e1e198146.jpg",
     "static/media/img-3.jpg": "/Canvas-demo/static/media/img-3.9c212df267cf83de64c3.jpg",
@@ -9,11 +9,11 @@
     "static/media/icon1.svg": "/Canvas-demo/static/media/icon1.d1aa6aa238856766ebfcfcdc9276f192.svg",
     "index.html": "/Canvas-demo/index.html",
     "static/media/icon2.svg": "/Canvas-demo/static/media/icon2.8c4a2665f59116e478e99a49ac5d314f.svg",
-    "main.43e32d93.css.map": "/Canvas-demo/static/css/main.43e32d93.css.map",
-    "main.85454fd7.js.map": "/Canvas-demo/static/js/main.85454fd7.js.map"
+    "main.04a1ffdb.css.map": "/Canvas-demo/static/css/main.04a1ffdb.css.map",
+    "main.c4da103d.js.map": "/Canvas-demo/static/js/main.c4da103d.js.map"
   },
   "entrypoints": [
-    "static/css/main.43e32d93.css",
-    "static/js/main.85454fd7.js"
+    "static/css/main.04a1ffdb.css",
+    "static/js/main.c4da103d.js"
   ]
 }
